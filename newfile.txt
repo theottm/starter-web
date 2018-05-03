@@ -1,1 +1,2 @@
 testing a git-list command
+now testing the status after modification of a followed non commited file
