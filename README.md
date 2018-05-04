@@ -16,8 +16,12 @@ Building a new computational life form : Wahou !
 
 This is the apendice
 
+### One final change for the working directory
+
 ## Last title
 
 This is the last head
+
+# On add for the staging area
 
 Ciao, bambino !
