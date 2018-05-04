@@ -6,6 +6,8 @@ Starting a web project
 
 Using github for the first time !
 
+# Add for the commited area
+
 ## Ambition
 
 Building a new computational life form : Wahou !
