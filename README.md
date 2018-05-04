@@ -22,6 +22,11 @@ This is the apendice
 
 This is the last head
 
-# On add for the staging area
+### One add for the staging area
 
 Ciao, bambino !
+
+### Copyright
+
+Théo Tyburn 2018
+
