@@ -1,7 +1,21 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+Starting a web project
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Using github for the first time !
+
+## Ambition
+
+Building a new computational life form : Wahou !
+
+### Apendice
+
+This is the apendice
+
+## Last title
+
+This is the last head
+
+Ciao, bambino !
